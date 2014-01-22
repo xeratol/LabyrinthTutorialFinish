@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5a545d0b5457d4113850a963ec056b7b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - target: {instanceID: 0}
+  - ballGhost: {fileID: 400000, guid: 3484578cc242942248f41c9abd50b88d, type: 2}
+  - reconstructParticles: {fileID: 400000, guid: 180173f4b51714f8283976710a5105d2,
+      type: 2}
+  - reconstructSound: {fileID: 8300000, guid: 6a0b957d7c14f4f1ea0517272adbf9b0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

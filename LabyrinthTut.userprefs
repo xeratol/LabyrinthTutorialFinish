@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Stage/Wall/MovingWallBehavior.cs">
+    <Files>
+      <File FileName="Assets/Stage/PowerUp/PowerUpBehavior.cs" Line="26" Column="1" />
+      <File FileName="Assets/Stage/PowerUp/PowerUpEffect.cs" Line="26" Column="13" />
+      <File FileName="Assets/Stage/StageBehavior.cs" Line="36" Column="25" />
+      <File FileName="Assets/Stage/Wall/MovingWallBehavior.cs" Line="45" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Stage" expanded="True">
+                <Node name="Ball" expanded="True" />
+                <Node name="Goal" expanded="True" />
+                <Node name="PowerUp" expanded="True" />
+                <Node name="Wall" expanded="True">
+                  <Node name="MovingWallBehavior.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
