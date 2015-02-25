@@ -47,4 +47,10 @@ public class MovingWallBehavior : MonoBehaviour {
 		duration = newDuration;
 		currTime = 0;
 	}
+
+	// TODO	
+	/*public void OnDrawGizmosSelected () {
+		Gizmos.matrix = transform.localToWorldMatrix;
+		Gizmos.DrawWireCube(transform.position + relativePosition, Vector3.one);
+	}*/
 }

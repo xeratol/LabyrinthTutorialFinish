@@ -13,6 +13,8 @@ public class GoalBehavior : MonoBehaviour {
 			//StageBehavior.instance.HasWon();
 			foreach (MonoBehaviour script in GameObject.FindObjectsOfType(typeof(MonoBehaviour)))
 				script.SendMessage("HasWon", SendMessageOptions.DontRequireReceiver);
+				
+			StageBehavior.instance.AddScore(500);
 		}
 	}
 }
