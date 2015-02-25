@@ -1,2 +1,7 @@
 Build
 Library
+
+*.csproj
+*.sln
+*.userprefs
+Temp/*
